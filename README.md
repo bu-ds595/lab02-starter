@@ -5,7 +5,7 @@ In this lab, you'll implement Hamiltonian Monte Carlo (HMC) from scratch using J
 ## Learning Objectives
 
 - Understand the mechanics of the leapfrog integrator
-- Implement HMC with Metropolis-Hastings correction
+- Implement HMC with Metropolis-Hastings-Rosenbluth correction
 - Compare sampling efficiency between random walk and HMC
 - Gain intuition for HMC hyperparameters (step size, trajectory length)
 
